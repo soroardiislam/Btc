@@ -1,0 +1,7 @@
+@import "tailwindcss";
+body{
+  background-color: #000510;
+}
+.button{
+  @apply py-3 px-5 rounded-xl bg-[#99E39E] cursor-pointer text-black font-semibold text-lg
+}
