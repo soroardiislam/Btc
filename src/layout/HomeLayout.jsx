@@ -5,6 +5,7 @@ import Footer from '../Components/Shars/Footer'
 import { Marque } from '../Components/Home/Marque'
 import { Crypto } from '../Components/Home/Crypto'
 import { Platform } from '../Components/Home/Platform'
+import Currency from '../Components/Home/Currency'
 
 export const HomeLayout = () => {
   return (
@@ -15,6 +16,7 @@ export const HomeLayout = () => {
       <Crypto></Crypto>
       <Platform></Platform>
       <Footer></Footer>
+      <Currency></Currency>
     </div>
   )
 }
