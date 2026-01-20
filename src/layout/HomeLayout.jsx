@@ -1,6 +1,5 @@
 import { Navbar } from '../Components/Shars/Navbar'
 import { Hero } from '../Components/Home/Hero'
-import Footer from '../Components/Shars/Footer'
 import { Marque } from '../Components/Home/Marque'
 import { Crypto } from '../Components/Home/Crypto'
 import { Platform } from '../Components/Home/Platform'
@@ -17,7 +16,6 @@ export const HomeLayout = () => {
       <Platform></Platform>
       <Currency></Currency>
       <Collapse></Collapse>
-      <Footer></Footer>
       
     </div>
   )
