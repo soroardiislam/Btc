@@ -2,6 +2,8 @@
 @plugin "daisyui";
 body{
   background-color: #000510;
+  max-width: 1300px;
+  margin: auto;
 }
 .button{
   @apply py-3 px-5 rounded-xl bg-[#99E39E] cursor-pointer text-black font-semibold text-lg
