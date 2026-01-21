@@ -1,5 +1,3 @@
-import React from 'react'
-
 export const Hero = () => {
   return (
     <div className='py-17 grid grid-cols-2 gap-6'>

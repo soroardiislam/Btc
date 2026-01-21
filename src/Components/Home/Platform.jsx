@@ -1,14 +1,14 @@
 export const Platform = () => {
   return (
     <div
-      className="relative my-18 p-16 w-full flex items-center justify-between overflow-hidden rounded-[18px] border border-[#FFFFFF1A] bg-[#FFFFFF0D] 
+      className=" my-18 p-16 w-full flex items-center justify-between  rounded-[18px] border border-[#FFFFFF1A] bg-[#FFFFFF0D] 
       
     
       bg-[url('./assets/Frame.png')] bg-no-repeat bg-contain bg-right
 
     "
     >
-      <div className="relative z-10">
+      <div className="">
         <h1 className="text-[40px] font-semibold text-white">
           Crypgo powered by framer platform
         </h1>
