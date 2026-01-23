@@ -9,7 +9,7 @@ import Footer from '../Components/Shars/Footer'
 
 export const HomeLayout = () => {
   return (
-    <div className=' mx-auto px-12.5'>
+    <div className=' max-w-[1300px] mx-auto px-12.5'>
       <Navbar/>
       <Hero></Hero>
       <Marque></Marque>
